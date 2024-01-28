@@ -20,6 +20,15 @@ def gram_cat_acronym_to_long_name(cat_gram_str):
 		long_form = cat_gram_dict[cat_gram_str]
 	return long_form
 
+def substitute_accents(word):
+	"""
+	if word ends with vowel that is not e [a, i, o, u] then ', substitute [à, ì, ò, ù]
+	if word ends with e', check if [ne, se, -che]
+		if True: subititue é else è 
+	"""
+	pass
+
+
 def main():
 	colfis = pd.read_csv("Forme_inverso.tsv", sep='\t')
 	
