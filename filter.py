@@ -28,13 +28,10 @@ def substitute_accents(word):
 	"""
 	pass
 
-
-def main():
-	colfis = pd.read_csv("Forme_inverso.tsv", sep='\t')
+def filter_colfis_top_1000(filename, colfis):
+	"""
 	
-
-	# colfis = colfis.sort_values('Freq', ascending=False)
-	colfis = colfis.sort_values('Rango')
+	"""
 	colfis = colfis[colfis['Cat.Gram'].apply(lambda x: 'Z' not in x)]
 	colfis = colfis[colfis['Cat.Gram'].apply(lambda x: 'E' not in x)]
 	colfis = colfis[colfis['Cat.Gram'].apply(lambda x: 'K' not in x)]
@@ -46,11 +43,16 @@ def main():
 	for x in range(1000):		
 		cat_gram = gram_cat_acronym_to_long_name(colfis.iat[x, 5])			
 		colfis.iat[x, 5] = cat_gram
-	# colfis.to_csv("top_1000_rank.tsv", sep='\t', index=False)
-	colfis[["Forma","Freq","Cat.Gram"]].to_csv("top_1000.tsv", sep='\t', index=False)
+	
+	colfis[["Forma","Freq","Cat.Gram"]].to_csv(filename, sep='\t', index=False)
 
 
 
+def main():
+	colfis = pd.read_csv("Forme_inverso.tsv", sep='\t')	
+	filter_colfis_top_1000("top_1000_freq.tsv", colfis.sort_values('Freq', ascending=False))
+	filter_colfis_top_1000("top_1000_rank.tsv", colfis.sort_values('Rango'))
+	
 
 if __name__ == "__main__":
 	main()
