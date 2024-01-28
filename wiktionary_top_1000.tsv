@@ -272,7 +272,6 @@ rank	word	occurrences (ppm)	lemma forms
 270.	senti	453	sentire
 271.	presto	451	presto
 272.	uomini	450	uomo
-273.	ll	449	[not Italian]
 274.	basta	448	basta
 275.	potrebbe	447	potere
 276.	stesso	446	stesso
@@ -479,7 +478,6 @@ rank	word	occurrences (ppm)	lemma forms
 477.	quattro	237	quattro
 478.	morire	236	morire
 479.	sangue	236	sangue
-480.	John	236	[not Italian]
 481.	eri	235	essere
 482.	almeno	235	almeno
 483.	dica	234	dire
@@ -491,7 +489,6 @@ rank	word	occurrences (ppm)	lemma forms
 489.	ricordo	229	ricordare
 490.	pace	226	pace
 491.	roba	225	roba
-492.	Jack	225	[not Italian]
 493.	migliore	225	migliore
 494.	fate	225	fare
 495.	difficile	225	difficile
@@ -526,7 +523,6 @@ rank	word	occurrences (ppm)	lemma forms
 524.	finché	208	finché
 525.	dare	206	dare
 526.	dammi	206	dare + mi (imperative)
-527.	Mr.	205	[not Italian]
 528.	mesi	205	mese
 529.	fuoco	205	fuoco
 530.	voleva	204	volere
@@ -545,7 +541,6 @@ rank	word	occurrences (ppm)	lemma forms
 543.	dimmi	198	dire + mi (imperative)
 544.	fossi	198	essere
 545.	senso	197	senso
-546.	James	196	[not Italian]
 547.	riesco	196	riuscire
 548.	ieri	196	ieri
 549.	possa	196	potere
@@ -579,7 +574,6 @@ rank	word	occurrences (ppm)	lemma forms
 577.	farmi	184	fare + mi
 578.	magari	184	magari
 579.	davanti	184	davanti
-580.	new	183	[not Italian]
 581.	chiamo	183	chiamare
 582.	genere	183	genere
 583.	libro	183	libro
@@ -637,7 +631,6 @@ rank	word	occurrences (ppm)	lemma forms
 635.	ultimo	166	ultimo
 636.	dicono	164	dire
 637.	benissimo	164	bene
-638.	Harry	164	[not Italian]
 639.	foto	164	fotografia
 640.	unico	163	unico
 641.	onore	163	onore
@@ -673,7 +666,6 @@ rank	word	occurrences (ppm)	lemma forms
 671.	attento	153	attentare
 672.	cerca	153	cercare
 673.	ordine	152	ordine
-674.	Joey	152	[not Italian]
 675.	arrivederci	152	arrivederci
 676.	arriva	152	arrivare
 677.	armi	152	armo
@@ -813,7 +805,6 @@ rank	word	occurrences (ppm)	lemma forms
 811.	farai	124	fare
 812.	d	124	D
 813.	buonanotte	124	buona + notte
-814.	Tom	123	[not Italian]
 815.	prossima	123	prossimo
 816.	brava	122	bravo
 817.	specie	122	specie
@@ -876,7 +867,6 @@ rank	word	occurrences (ppm)	lemma forms
 874.	sette	113	sette
 875.	pronta	113	pronta
 876.	metti	113	mettere
-877.	Henry	113	[not Italian]
 878.	programma	112	programma
 879.	poteva	112	potere
 880.	parti	112	parti
@@ -887,7 +877,6 @@ rank	word	occurrences (ppm)	lemma forms
 885.	freddo	111	freddo
 886.	s'	111	s'
 887.	piacciono	111	piacciono
-888.	Clark	111	[not Italian]
 889.	vederti	111	vedere + ti
 890.	domande	111	domande
 891.	peggio	110	peggio
@@ -945,7 +934,6 @@ rank	word	occurrences (ppm)	lemma forms
 943.	calma	104	calmare
 944.	altrimenti	104	altrimenti
 945.	t	103	T
-946.	Miss	103	[not Italian]
 947.	provato	103	provare
 948.	dirlo	103	dire + lo
 949.	cinema	103	cinema
@@ -968,13 +956,11 @@ rank	word	occurrences (ppm)	lemma forms
 966.	rispetto	101	rispetto
 967.	pena	101	pena
 968.	Gesù	101	Gesù
-969.	Michael	101	[not Italian]
 970.	incontro	101	incontrare
 971.	cercato	101	cercare
 972.	occhiata	101	occhiata
 973.	pensando	101	pensare
 974.	cioè	101	cioè
-975.	the	100	[not Italian]
 976.	notizie	100	notizie
 977.	sorpresa	100	sorpresa
 978.	bastardo	100	bastardo
