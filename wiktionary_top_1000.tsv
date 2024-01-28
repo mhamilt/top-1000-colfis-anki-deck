@@ -33,7 +33,6 @@ rank	word	occurrences (ppm)	lemma forms
 31.	no	4755	no
 32.	questo	3830	questo
 33.	qui	3745	qui
-34.	e'	3739	(same as 4.)
 35.	hai	3727	avere
 36.	sei	3550	essere
 37.	del	3466	di + il
@@ -111,7 +110,6 @@ rank	word	occurrences (ppm)	lemma forms
 109.	dire	1174	dire
 110.	vi	1169	vi
 111.	loro	1161	loro
-112.	i'	1149	(same as 23.)
 113.	altro	1142	altro
 114.	sai	1134	sapere
 115.	stai	1127	stare
@@ -150,7 +148,6 @@ rank	word	occurrences (ppm)	lemma forms
 148.	volta	874	volta
 149.	via	872	via
 150.	sul	859	su + il
-151.	é	855	(same as 4.)
 152.	dio	852	Dio
 153.	sarà	847	essere
 154.	dopo	840	dopo
@@ -174,7 +171,6 @@ rank	word	occurrences (ppm)	lemma forms
 172.	ai	718	a + i
 173.	vedere	713	vedere
 174.	ogni	711	ogni
-175.	ii	707	(same as 7.)
 176.	troppo	707	troppo
 177.	posto	703	posto
 178.	cui	696	cui
@@ -185,7 +181,6 @@ rank	word	occurrences (ppm)	lemma forms
 183.	bisogno	686	bisognare
 184.	signor	678	signore
 185.	beh	670	bene
-186.	perchè	662	(same as 46.)
 187.	vieni	659	venire
 188.	alle	658	a + le
 189.	dalla	658	da + la
@@ -348,7 +343,6 @@ rank	word	occurrences (ppm)	lemma forms
 347.	occhi	331	occhi
 348.	fine	330	fine
 349.	Sig.	330	Sig., signore
-350.	ê	327	(same as 4.)
 351.	tesoro	325	tesoro
 352.	scusi	325	scusare
 353.	primo	325	primo
@@ -536,7 +530,6 @@ rank	word	occurrences (ppm)	lemma forms
 538.	mezzo	203	mezzo
 539.	prova	202	prova
 540.	cara	201	caro
-541.	perche'	200	(same as 46.)
 542.	cane	198	cane
 543.	dimmi	198	dire + mi (imperative)
 544.	fossi	198	essere
@@ -619,7 +612,6 @@ rank	word	occurrences (ppm)	lemma forms
 623.	dovremmo	169	dovere
 624.	farti	168	fare
 625.	soltanto	168	soltanto
-626.	piu'	168	(same as 42.)
 627.	buono	168	buono
 628.	puttana	167	puttana (vulgar)
 629.	vivo	167	vivere
@@ -743,7 +735,6 @@ rank	word	occurrences (ppm)	lemma forms
 749.	futuro	135	futuro
 750.	sbagliato	134	sbagliato
 751.	guardi	134	guardare
-752.	cosi'	134	(same as 54.)
 753.	sicurezza	134	sicurezza
 754.	pezzo	134	pezzo
 755.	devono	134	dovere
