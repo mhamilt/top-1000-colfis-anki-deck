@@ -187,7 +187,6 @@ rank	word	occurrences (ppm)	lemma forms
 190.	stata	656	stare
 191.	tra	649	tra
 192.	vai	648	andare
-193.	ehi	647	ehi! (interjection)
 194.	miei	645	mio
 195.	amico	642	amico
 196.	dice	633	dire
@@ -218,7 +217,6 @@ rank	word	occurrences (ppm)	lemma forms
 221.	ero	552	essere
 222.	donna	552	donna
 223.	nuovo	551	nuovo
-224.	ah	551	ah! (interjection)
 225.	faccio	545	fare
 226.	aveva	545	avere
 227.	nostro	544	nostro
@@ -242,7 +240,6 @@ rank	word	occurrences (ppm)	lemma forms
 245.	tutta	498	tutto
 246.	faccia	493	fare
 247.	nome	492	nome
-248.	ok	488	okay (idiomatic)
 249.	notte	488	notte
 250.	queste	487	questo
 251.	figlio	487	figlio
@@ -262,7 +259,6 @@ rank	word	occurrences (ppm)	lemma forms
 265.	testa	460	testa
 266.	papà	457	papà
 267.	giusto	456	giusto
-268.	eh	455	eh! (interjection)
 269.	vorrei	455	volere
 270.	senti	453	sentire
 271.	presto	451	presto
@@ -317,7 +313,6 @@ rank	word	occurrences (ppm)	lemma forms
 321.	aver	366	avere
 322.	giorni	365	giorno
 323.	cazzo	365	cazzo (vulgar)
-324.	okay	364	okay (idiomatic)
 325.	nulla	363	nulla
 326.	bello	363	bello
 327.	persone	362	persona
@@ -539,7 +534,6 @@ rank	word	occurrences (ppm)	lemma forms
 549.	possa	196	potere
 550.	potuto	195	potere
 551.	scuola	194	scuola
-552.	S.	194	S. (signore)
 553.	possono	193	potere
 554.	lavorare	193	lavorare
 555.	significa	193	significare
@@ -582,7 +576,6 @@ rank	word	occurrences (ppm)	lemma forms
 593.	finita	180	finito
 594.	saranno	180	essere
 595.	vogliono	180	volere
-596.	hey	180	Hey! (interjection)
 597.	cielo	180	cielo
 598.	parole	179	parola
 599.	auto	179	auto
