@@ -1,4 +1,10 @@
 import pandas as pd
+import os 
+
+def make_pronunciation_file(word):
+	word = "hello"
+	command = f"say --file-format=WAVE --data-format=alaw -o 'audio/{word}.wav' {word}"
+	os.system(command)
 
 def main():	
 	"""
