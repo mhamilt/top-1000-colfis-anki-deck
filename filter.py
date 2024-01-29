@@ -63,15 +63,13 @@ def add_translations():
 	pass
 
 def main():
-	colfis = pd.read_csv("Forme_inverso.tsv", sep='\t')
-	filter_colfis_top_1000("top_1000_freq.tsv", colfis.sort_values('Freq', ascending=False))
-	filter_colfis_top_1000("top_1000_rank.tsv", colfis.sort_values('Rango'))
-	freq = pd.read_csv("top_1000_freq.tsv", sep='\t')
-	rank = pd.read_csv("top_1000_rank.tsv", sep='\t')
-	trans = pd.read_csv("top_1000_rank_notated.tsv", sep='\t')
+	colfis = pd.read_csv("data/Forme_inverso.tsv", sep='\t')
+	freq = colfis.sort_values('Freq',  ascending=False).head(1000)
+	rank = colfis.sort_values('Rango', ascending=False).head(1000)
+	trans = pd.read_csv("data/top_1000_rank_notated.tsv", sep='\t')
 	rank = rank[["Forma","Freq","Cat.Gram"]].rename(columns={"Forma": "italiano", "Freq": "freq",})
 	rank['english'] = ["<TEXT>" for x in range(1000)]
-	wiktionary = pd.read_csv("wiktionary_top_1000.tsv", sep='\t')
+	wiktionary = pd.read_csv("data/wiktionary_top_1000.tsv", sep='\t')
 	wiktionary['english'] = ["<TEXT>" for x in range(wiktionary.shape[0])]
 	wiktionary = wiktionary.rename(columns={"word": "italiano", "occurrences (ppm)": "freq", "lemma forms": 'lemma'})
 	wiktionary = wiktionary[['english', 'italiano', 'freq', 'lemma']]
@@ -103,9 +101,9 @@ def main():
 				if wiktionary.at[x, "italiano"] == trans.at[y, "italiano"]:
 					wiktionary.at[x, "english"] = trans.at[y, "english"]
 
-	rank.to_csv("top_1000_rank.tsv", sep='\t', index=False)
-	freq.to_csv("top_1000_freq.tsv", sep='\t', index=False)
-	wiktionary.to_csv("top_1000_wiktionary.tsv", sep='\t', index=False)
+	rank.to_csv("tsv/top_1000_rank.tsv", sep='\t', index=False)
+	freq.to_csv("tsv/top_1000_freq.tsv", sep='\t', index=False)
+	wiktionary.to_csv("tsv/top_1000_wiktionary.tsv", sep='\t', index=False)
 
 
 if __name__ == "__main__":
