@@ -203,7 +203,7 @@ paese	1196	Sostantivo	country
 ben	1190	Avverbio	well
 anche se	1183	Congiunzione	also / even /  if, although
 ore	1177	Sostantivo	hours
-e' stato	1176	Verbo	<TEXT>
+e' stato	1176	Verbo	it / he has been
 sull'	1173	Preposizione	on the
 cosa	1163	Sostantivo	thing
 sera	1160	Sostantivo	evening
@@ -354,7 +354,7 @@ politica	706	Sostantivo	politics, policy
 ultima	700	Aggettivo	last, latest
 crisi	694	Sostantivo	crises
 polizia	693	Sostantivo	police
-e' stata	688	Verbo	<TEXT>
+e' stata	688	Verbo	it / she has been
 direttore	685	Sostantivo	dircetor
 attraverso	685	Preposizione	across, through
 successo	678	Sostantivo	success
@@ -650,7 +650,7 @@ ospedale	409	Sostantivo	hospital
 persino	409	Avverbio	even
 piuttosto	408	Avverbio	instead, rather, fairly
 alla fine	407	Avverbio	at the end of
-partita	407	Sostantivo	<TEXT>
+partita	407	Sostantivo	match, game
 decisione	406	Sostantivo	decision
 atto	405	Sostantivo	act, deed
 elezioni	405	Sostantivo	election
@@ -668,7 +668,7 @@ libertà	393	Sostantivo	liberty
 nessuna	393	Aggettivo	nobody, anybody
 secolo	393	Sostantivo	century
 otto	392	Numerale	eight
-elettorale	389	Aggettivo	<TEXT>
+elettorale	389	Aggettivo	electoral
 parlato	389	Verbo in Tempo composto di un verbo	spoken
 ha avuto	388	Verbo	it / he / she has had
 oro	388	Sostantivo	gold
@@ -706,14 +706,14 @@ significa	376	Verbo	it / he / she means
 giusto	372	Aggettivo	fair, right
 passare	372	Verbo	to go past
 dati	371	Sostantivo	dates
-italiani	370	Sostantivo	<TEXT>
+italiani	370	Sostantivo	italians
 facendo	369	Verbo	making
 il quale	369	Pronome	who, that (relative pronoun)
-gara	368	Sostantivo	<TEXT>
+gara	368	Sostantivo	competition, contest, event, race
 segno	368	Sostantivo	mark, sign
 settore	367	Sostantivo	sector, seats, field
 giudice	366	Sostantivo	judge
-voto	366	Sostantivo	<TEXT>
+voto	366	Sostantivo	vote, mark, grade
 male	366	Sostantivo	evil, ill
 prime	364	Aggettivo	before, back, previous
 resto	363	Sostantivo	rest, remainder
@@ -778,7 +778,7 @@ vecchia	338	Aggettivo	old
 amministrazione	338	Sostantivo	administration
 case	338	Sostantivo	houses, buildings
 prezzo	338	Sostantivo	price
-indagini	337	Sostantivo	<TEXT>
+indagini	337	Sostantivo	survies
 conti	336	Sostantivo	counts, bills
 chiama	335	Verbo	it / he / she calls
 nord	334	Sostantivo	North
@@ -792,9 +792,9 @@ pensa	333	Verbo	it / he / she thinks
 effetto	333	Sostantivo	effect
 americano	333	Aggettivo	american
 lavori	332	Sostantivo	you work
-traffico	332	Sostantivo	<TEXT>
+traffico	332	Sostantivo	traffic
 tardi	332	Avverbio	late
-giudici	331	Sostantivo	<TEXT>
+giudici	331	Sostantivo	judges
 strade	331	Sostantivo	streets
 avrebbero	331	Verbo ausiliare in Tempo composto di un verbo	they would have
 necessario	331	Aggettivo	necessary
@@ -802,7 +802,7 @@ completamente	330	Avverbio	completely, totally, altogether
 farlo	330	Verbo	to make it / him
 penso	330	Verbo	I think
 personaggi	330	Sostantivo	characters, figures
-gol	329	Sostantivo	<TEXT>
+gol	329	Sostantivo	goal
 importanti	329	Aggettivo	important
 ad esempio	329	Avverbio	as example
 pensato	328	Verbo in Tempo composto di un verbo	thought
@@ -847,7 +847,7 @@ peso	318	Sostantivo	weight
 gruppi	317	Sostantivo	groups
 possiamo	317	Verbo	we can
 salute	317	Sostantivo	health
-signor	317	Sostantivo	<TEXT>
+signor	317	Sostantivo	sir, gentleman, Mr.
 faccia	317	Sostantivo	it / he / she might make
 perso	317	Verbo in Tempo composto di un verbo	forgotten
 nostre	317	Aggettivo	our (f.p)
@@ -856,12 +856,12 @@ serata	316	Sostantivo	evening
 naturale	316	Aggettivo	natural
 sostiene	316	Verbo	it / he / she supports, bears, carries
 avrei	315	Verbo ausiliare in Tempo composto di un verbo	I would have
-economica	315	Aggettivo	<TEXT>
+economica	315	Aggettivo	cheap, inexpensive
 immagini	314	Sostantivo	images
 notizia	314	Sostantivo	news, information
-rete	314	Sostantivo	<TEXT>
+rete	314	Sostantivo	net, network
 azienda	314	Sostantivo	firm, company, business
-foto *	314	Sostantivo	<TEXT>
+foto *	314	Sostantivo	photograph
 vuol	314	Verbo	it / he / she wants
 giocare	313	Verbo	to play
 vale	313	Verbo	it / he / she is worth
@@ -870,7 +870,7 @@ a volte	312	Avverbio	at times, sometimes
 simile	311	Aggettivo	similar
 personaggio	311	Sostantivo	character
 inglese	310	Aggettivo	english
-regione	310	Sostantivo	<TEXT>
+regione	310	Sostantivo	region
 potrebbero	309	Verbo	they could
 avvocato	309	Sostantivo	solicitor, lawyer
 marzo	309	Sostantivo	March
@@ -881,8 +881,8 @@ perciò	306	Congiunzione	therefore, so, for this reason
 stare	306	Verbo	to stand
 impossibile	306	Aggettivo	impossible
 direzione	306	Sostantivo	direction
-prodotti	305	Sostantivo	<TEXT>
-avesse	305	Verbo ausiliare in Tempo composto di un verbo	<TEXT>
+prodotti	305	Sostantivo	products
+avesse	305	Verbo ausiliare in Tempo composto di un verbo	it / he / she might had, were to have
 tenere	305	Verbo	to hold, to keep
 vanno	304	Verbo	they go
 medico	304	Sostantivo	medic
@@ -896,16 +896,16 @@ appunto	303	Avverbio	exactly, precisely
 discorso	302	Sostantivo	speech, talk
 affrontare	302	Verbo	to face, to confront
 mondiale	302	Aggettivo	global, worldwide
-opere	302	Sostantivo	<TEXT>
-cittadini	301	Sostantivo	<TEXT>
+opere	302	Sostantivo	works
+cittadini	301	Sostantivo	citizens
 arrivato	301	Verbo in Tempo composto di un verbo	arrived
 rimasto	301	Verbo in Tempo composto di un verbo	remained, stayed
 idee	300	Sostantivo	idea, plan
 giudizio	300	Sostantivo	judgment, opinion
 anch'	299	Avverbio	also
 cerca	299	Verbo	it / he /she searches
-essi	299	Pronome	<TEXT>
-devo	298	Verbo	<TEXT>
+essi	299	Pronome	it, they (m.p)
+devo	298	Verbo	I must
 vorrei	298	Verbo	I would like
 famiglie	298	Sostantivo	families
 varie	298	Aggettivo	varied, various
@@ -915,23 +915,23 @@ pensiero	297	Sostantivo	thought
 bocca	297	Sostantivo	mouth
 aiuto	297	Sostantivo	help
 pagine	296	Sostantivo	pages
-dolore	296	Sostantivo	<TEXT>
+dolore	296	Sostantivo	sorrow, pain, ache, grief
 desiderio	296	Sostantivo	wish, desire
 nomi	296	Sostantivo	names
 fiori	296	Sostantivo	outside
 sud	295	Sostantivo	South
 interno	295	Sostantivo in Preposizione	interior, inside
-attore	295	Sostantivo	<TEXT>
-papà	294	Sostantivo	<TEXT>
+attore	295	Sostantivo	actor
+papà	294	Sostantivo	daddy
 raggiungere	294	Verbo	to join, to catch up with
 assai	294	Avverbio	considerably, greatly, much
-vittima	293	Sostantivo	<TEXT>
-televisione	293	Sostantivo	<TEXT>
-accusa	292	Sostantivo	<TEXT>
+vittima	293	Sostantivo	victim
+televisione	293	Sostantivo	television
+accusa	292	Sostantivo	accusation, charge
 comincia	292	Verbo	it / he / she begins
 interessi	292	Sostantivo	interests
-febbraio	292	Sostantivo	<TEXT>
-economia	292	Sostantivo	<TEXT>
+febbraio	292	Sostantivo	February
+economia	292	Sostantivo	economy
 spiegato	292	Verbo in Tempo composto di un verbo	explained
 fatta	291	Verbo in Tempo composto di un verbo	made
 mezzi	291	Sostantivo	halfs
@@ -941,19 +941,19 @@ chiedere	291	Verbo	to ask
 piacere	291	Sostantivo	to please
 modello	291	Sostantivo	example, model, design
 ha dato	290	Verbo	it / he / she has given
-tema	290	Sostantivo	<TEXT>
-assessore	290	Sostantivo	<TEXT>
+tema	290	Sostantivo	theme, subject
+assessore	290	Sostantivo	member of local government of a town, province or region
 armi	290	Sostantivo	weapons
 sicuro	290	Aggettivo	safe, certain, sure
 veramente	289	Avverbio	truly, really, actually
-pubblici	289	Aggettivo	<TEXT>
-omicidio	288	Sostantivo	<TEXT>
+pubblici	289	Aggettivo	states, publics
+omicidio	288	Sostantivo	homicide, murder
 affari	288	Sostantivo	affairs
 sorta	288	Sostantivo	kind, sort
-tribunale	287	Sostantivo	<TEXT>
-olio	287	Sostantivo	<TEXT>
+tribunale	287	Sostantivo	tribunal
+olio	287	Sostantivo	oil
 grave	287	Aggettivo	serious
-cielo	287	Sostantivo	<TEXT>
+cielo	287	Sostantivo	sky
 mette	286	Verbo	it / he / she puts
 sorpresa	286	Sostantivo	surprise
 spirito	286	Sostantivo	spirit
@@ -961,41 +961,41 @@ sembrano	286	Verbo	they seem
 diventato	286	Verbo in Tempo composto di un verbo	become
 vento	285	Sostantivo	wind
 ingresso	284	Sostantivo	entrance
-aziende	284	Sostantivo	<TEXT>
-giornalisti	284	Sostantivo	<TEXT>
+aziende	284	Sostantivo	firms, businesses
+giornalisti	284	Sostantivo	journalist
 passa	283	Verbo	it / he / she passes, goes past
 certe	282	Aggettivo	certain
-campionato	282	Sostantivo	<TEXT>
+campionato	282	Sostantivo	championship
 davanti a	282	Preposizione	in front of
-medici	282	Sostantivo	<TEXT>
+medici	282	Sostantivo	doctors
 dubbio	281	Sostantivo	uncertain
-bambina	281	Sostantivo	<TEXT>
+bambina	281	Sostantivo	baby girl
 sanno	281	Verbo	they know
-vinto	281	Verbo in Tempo composto di un verbo	<TEXT>
+vinto	281	Verbo in Tempo composto di un verbo	won
 novità	281	Sostantivo	novelty
 centrale	280	Aggettivo	central
 civile	280	Aggettivo	civil
-telefono	280	Sostantivo	<TEXT>
+telefono	280	Sostantivo	telephone
 posti	280	Sostantivo	places, positions
 compito	279	Sostantivo	task, assignment
 andato	279	Verbo in Tempo composto di un verbo	gone
 classe	279	Sostantivo	classes, formes
 purtroppo	278	Avverbio	unfortunately
-corte	278	Sostantivo	<TEXT>
+corte	278	Sostantivo	court
 termine	277	Sostantivo	conclusion, end
 passione	277	Sostantivo	passion
-chissà	277	Avverbio	<TEXT>
+chissà	277	Avverbio	"who knows", maybe
 migliaia	276	Sostantivo	about a thousand, numbering in the thousands
 finché	276	Congiunzione	until, as long as
-università	276	Sostantivo	<TEXT>
+università	276	Sostantivo	university
 capace	276	Aggettivo	capable
-studi	276	Sostantivo	<TEXT>
-effetti	275	Sostantivo	<TEXT>
-prezzi	275	Sostantivo	<TEXT>
+studi	276	Sostantivo	studies
+effetti	275	Sostantivo	effects
+prezzi	275	Sostantivo	prices
 pezzi	275	Sostantivo	pieces
-mostra	275	Sostantivo	<TEXT>
+mostra	275	Sostantivo	show
 motivi	275	Sostantivo	motives
 causa	275	Sostantivo	cause
-dottor	275	Sostantivo	<TEXT>
+dottor	275	Sostantivo	doctor
 ragioni	274	Sostantivo	reasons
-chiese	274	Verbo	<TEXT>
+chiese	274	Verbo	churches

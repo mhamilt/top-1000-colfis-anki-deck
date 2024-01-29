@@ -199,7 +199,7 @@ adesso	1256	Avverbio	now
 sull'	1173	Preposizione	on the
 ore	1177	Sostantivo	hours
 almeno	1144	Avverbio	at least
-e' stato	1176	Verbo	<TEXT>
+e' stato	1176	Verbo	it / he has been
 cento	1241	Numerale	one hundred
 nuova	1159	Aggettivo	new, news
 avuto	1150	Verbo in Tempo composto di un verbo	had
@@ -344,7 +344,7 @@ voce	757	Sostantivo	voice
 c'era	752	Verbo	there was
 mese	708	Sostantivo	month
 gioco	706	Sostantivo	game, play, fun
-e' stata	688	Verbo	<TEXT>
+e' stata	688	Verbo	it / she has been
 spiega	716	Verbo	it / he / she shows, explain
 serie	708	Sostantivo	series / serial
 quei	676	Aggettivo	this (before a consonant followed by a vowel and before fptcvbdg)
@@ -765,7 +765,7 @@ necessario	331	Aggettivo	necessary
 certi	339	Aggettivo	certain
 silenzio	348	Sostantivo	silence
 certamente	322	Avverbio	certainly
-italiani	370	Sostantivo	<TEXT>
+italiani	370	Sostantivo	italians
 confronti	326	Sostantivo in Preposizione	comparisons, contests, matches
 occhio	322	Sostantivo	eye
 penso	330	Verbo	I think
@@ -963,39 +963,39 @@ andato	279	Verbo in Tempo composto di un verbo	gone
 termine	277	Sostantivo	conclusion, end
 spiegato	292	Verbo in Tempo composto di un verbo	explained
 del tutto	265	Avverbio	altogether, perfectly, quite, totally
-studi	276	Sostantivo	<TEXT>
-farà	262	Verbo	<TEXT>
-prodotti	305	Sostantivo	<TEXT>
-partita	407	Sostantivo	<TEXT>
-giornalisti	284	Sostantivo	<TEXT>
-essi	299	Pronome	<TEXT>
-carattere	269	Sostantivo	<TEXT>
-avrà	263	Verbo	<TEXT>
-scelto	261	Verbo in Tempo composto di un verbo	<TEXT>
-tema	290	Sostantivo	<TEXT>
-colpa	261	Sostantivo	<TEXT>
-presente	268	Aggettivo	<TEXT>
-intera	254	Aggettivo	<TEXT>
-corte	278	Sostantivo	<TEXT>
-effetti	275	Sostantivo	<TEXT>
-ultime	263	Aggettivo	<TEXT>
-reale	262	Aggettivo	<TEXT>
-bianco	271	Aggettivo	<TEXT>
-cercato	257	Verbo in Tempo composto di un verbo	<TEXT>
-lotta	260	Sostantivo	<TEXT>
-cittadini	301	Sostantivo	<TEXT>
-febbraio	292	Sostantivo	<TEXT>
-elementi	272	Sostantivo	<TEXT>
-prende	251	Verbo	<TEXT>
-venti	251	Numerale	<TEXT>
-cielo	287	Sostantivo	<TEXT>
-vari	268	Aggettivo	<TEXT>
-economica	315	Aggettivo	<TEXT>
-occorre	263	Verbo	<TEXT>
-piccole	266	Aggettivo	<TEXT>
-migliori	254	Aggettivo	<TEXT>
-diversa	257	Aggettivo	<TEXT>
-devo	298	Verbo	<TEXT>
-scrive	269	Verbo	<TEXT>
-passaggio	255	Sostantivo	<TEXT>
-medici	282	Sostantivo	<TEXT>
+studi	276	Sostantivo	studies
+farà	262	Verbo	it / he / she will make, do
+prodotti	305	Sostantivo	products
+partita	407	Sostantivo	match, game
+giornalisti	284	Sostantivo	journalist
+essi	299	Pronome	it, they (m.p)
+carattere	269	Sostantivo	character, personality, nature, temper
+avrà	263	Verbo	it / he / she will have
+scelto	261	Verbo in Tempo composto di un verbo	selected, chosen
+tema	290	Sostantivo	theme, subject
+colpa	261	Sostantivo	fault, sin
+presente	268	Aggettivo	present
+intera	254	Aggettivo	whole, complete
+corte	278	Sostantivo	court
+effetti	275	Sostantivo	effects
+ultime	263	Aggettivo	final, last
+reale	262	Aggettivo	real, actual
+bianco	271	Aggettivo	white
+cercato	257	Verbo in Tempo composto di un verbo	searched
+lotta	260	Sostantivo	fight, conflict
+cittadini	301	Sostantivo	citizens
+febbraio	292	Sostantivo	February
+elementi	272	Sostantivo	elements
+prende	251	Verbo	it / he / she takes
+venti	251	Numerale	twenty
+cielo	287	Sostantivo	sky
+vari	268	Aggettivo	various
+economica	315	Aggettivo	cheap, inexpensive
+occorre	263	Verbo	it / he / she occurs, requires
+piccole	266	Aggettivo	little, small
+migliori	254	Aggettivo	better, best
+diversa	257	Aggettivo	different
+devo	298	Verbo	I must
+scrive	269	Verbo	it / he / she writes
+passaggio	255	Sostantivo	passage, crossing
+medici	282	Sostantivo	doctors
