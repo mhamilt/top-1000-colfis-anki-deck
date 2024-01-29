@@ -7,8 +7,18 @@ This was constructed as the readily available lists of "Top 1000 words" were wit
 
 There is the [Wiktionary:Frequency lists/Italian1000](https://en.m.wiktionary.org/wiki/Wiktionary:Frequency_lists/Italian1000) but that topped out at 1000 and included a few duplicates and non-italian words.
 
-The deck was constructed using the [Genanki](https://github.com/kerrickstaley/genanki) package from a filtered version of the first 1000 words in the CoLFIS corpus
-with a few filters placed on it.
+The deck was constructed using the [Genanki](https://github.com/kerrickstaley/genanki) package from a filtered version of the first 1000 words in the CoLFIS corpus and the Wiktionary list with a few filters placed on it.
+
+Given the source of CoLFIS is periodicals, literature and newspapers the vocabulary skews to more formal language. The Wiktionary list on the otherhand skews towards the informal with subtitle data used as a source. As such, the Wiktionary sourced deck perhaps better reflects common spoken italian while the CoLFIS decks reflect written italian.
+
+### ColFIS
+
+The ColFIS set has two useful measurements of frequency
+
+- *Frequency*: total absolute frequency of the form or lemma in the corpus.
+- *Rango*: usage rank of the form or lemma compared to usage in the total corpus.
+
+A different deck was generated for each. 
 
 The Python script to filter the corpus, a `.tsv` version of which is also in the repository.
 
@@ -26,6 +36,28 @@ X	Lingua non ben identificata		Z	Simbolo
 @	Parola sintagmatica
 ```
 
-### Filtering Process
+#### Filtering Process
 
 The corpus was ingested as a `pandas` data frame, ordered by rank (_Rango_) and filtered for any punctuation `K`. Symbols containing hyphens (`-`) were also excluded as these were typically incomplete contractions of preposition and articles.
+
+### Wiktionary
+
+The Wiktionary set has had a few entries removed, namely
+
+- interjections
+- non-italian words
+- duplicates
+
+The set also contains some anomalies, for instance the entry:
+
+```csv
+cosi	252	coso
+```
+
+It is unlikely that the plural for the seldom usage masculine for thing (_coso_) appeared but the _così_ did not. This entry was chaned to _così_ by hand. Any manual changes will be documented below.
+
+```
+cosi	252	coso 	# così
+tenente	133	tenere	# probably tenete
+coi		104	coi		#lemma should be con + i
+```
