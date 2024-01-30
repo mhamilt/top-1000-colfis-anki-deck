@@ -36,13 +36,13 @@ The Python script to filter the corpus, a `.tsv` version of which is also in the
 The source of the corpus [Scuola Normal Superiore](https://linguistica.sns.it/CoLFIS/Lemmario.htm) use the following grammatical categories
 
 ```
-B	Avverbio						C	Congiunzione
-E	Nome proprio					G	Aggettivo
-I	Interiezione					K	Punteggiatura
-N	Pronome							NU	Numerale
-P	Preposizione					R	Articolo
-S	Sostantivo						TC	Tempo composto di un verbo
-V	Verbo							VA	Verbo ausiliare
+B	Avverbio				C	Congiunzione
+E	Nome proprio				G	Aggettivo
+I	Interiezione				K	Punteggiatura
+N	Pronome					NU	Numerale
+P	Preposizione				R	Articolo
+S	Sostantivo				TC	Tempo composto di un verbo
+V	Verbo					VA	Verbo ausiliare
 X	Lingua non ben identificata		Z	Simbolo
 @	Parola sintagmatica
 ```
