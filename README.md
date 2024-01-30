@@ -75,4 +75,8 @@ cosi	252	coso
 
 It is unlikely that the plural for the seldom usage masculine for thing (_coso_) appeared but the _così_ did not. This entry was changed to _così_ by hand.
 
-† _ not the correct term, come at me linguists!
+† _not the correct term, come at me linguists!_
+
+## Improvements
+
+There a lot of improvements to be made. For the CoLFIS decks the grammatical category field could be used to give a little more context. The same can be done for the lemma field from the wiktionary data set. If you can think of anything else, feel free to [create an issue](https://github.com/mhamilt/top-1000-colfis-anki-deck/issues)
