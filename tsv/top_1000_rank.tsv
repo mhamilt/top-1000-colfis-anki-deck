@@ -38,7 +38,7 @@ anni	6802	Sostantivo	years
 mi	7088	Pronome	me, to me
 nella	6425	Preposizione	in the (f.s)
 due	6415	Numerale	two
-dal	6182	Preposizione	of the (m.s)
+dal	6182	Preposizione	from the (m.s)
 suo	5748	Aggettivo	its, his, her (m)
 sua	5555	Aggettivo	its, his, her (f)
 d'	5420	Preposizione	of
@@ -52,7 +52,7 @@ era	5257	Verbo	it / he / she was
 hanno	4961	Verbo ausiliare in Tempo composto di un verbo	they have
 cui	4787	Pronome	who, which (pronoun)
 tra	4699	Preposizione	between, among, within
-dalla	4494	Preposizione	of the (f.s)
+dalla	4494	Preposizione	from the (f.s)
 solo	4451	Avverbio	only, alone
 così	4475	Avverbio	so
 c'	4398	Avverbio in Verbo	there
@@ -92,7 +92,7 @@ ne	2748	Pronome	of him / her / it, any
 grande	2731	Aggettivo	large
 vita	2764	Sostantivo	life
 tre	2723	Numerale	three
-dall'	2637	Preposizione	of the
+dall'	2637	Preposizione	from the
 mai	2681	Avverbio	never
 qualche	2573	Aggettivo	some, a few
 ci	2606	Pronome	us, about it
@@ -106,7 +106,7 @@ suoi	2337	Aggettivo	its / his / her (m.p)
 mentre	2288	Congiunzione	while
 volta	2275	Sostantivo	(one) time, once
 anno	2401	Sostantivo	year
-dai	2271	Preposizione	of the (m.p)
+dai	2271	Preposizione	from the (m.p)
 parte	2245	Sostantivo	part
 però	2248	Congiunzione	but, however
 tutti	2262	Pronome	all, everyone
@@ -130,7 +130,7 @@ tutto	1944	Pronome	all, everything
 fra	1910	Preposizione	between, among, within
 uomo	1959	Sostantivo	man
 contro	1917	Preposizione	against
-dalle	1833	Preposizione	of the (f.p)
+dalle	1833	Preposizione	from the (f.p)
 mia	1998	Aggettivo	my (f.s)
 mio	1989	Aggettivo	my (m.s)
 me	1999	Pronome	me, to me
@@ -292,7 +292,7 @@ vuole	840	Verbo	it / he / she wants
 ha fatto	865	Verbo	it / he / she has made
 mila	1059	Numerale	thousand
 capo	882	Sostantivo	boss, head
-dagli	824	Preposizione	of the (m.p)
+dagli	824	Preposizione	from the (m.p)
 guerra	875	Sostantivo	war
 pochi	830	Aggettivo	a little bit, very little
 senso	827	Sostantivo	sense, feeling
@@ -507,9 +507,9 @@ semplice	456	Aggettivo	simple, straightforward
 italiano	521	Aggettivo	italian
 nonostante	466	Preposizione	despite, in spite of, notwithstanding
 arte	552	Sostantivo	art
-difficoltà	460	Sostantivo	diffiulty
+difficoltà	460	Sostantivo	difficulty
 immagine	485	Sostantivo	image, picture, illustration
-vengono	496	Verbo ausiliare in Tempo composto di un verbo	they go
+vengono	496	Verbo ausiliare in Tempo composto di un verbo	they come
 ragazzo	500	Sostantivo	boy
 giovani	478	Sostantivo	young
 musica	525	Sostantivo	music
@@ -904,7 +904,7 @@ avvocato	309	Sostantivo	solicitor, lawyer
 gruppi	317	Sostantivo	groups
 torna	273	Verbo	it / he / she returns
 nomi	296	Sostantivo	names
-classe	279	Sostantivo	classes, formes
+classe	279	Sostantivo	classes, forms
 colori	306	Sostantivo	colours
 mette	286	Verbo	it / he / she puts
 vorrei	298	Verbo	I would like

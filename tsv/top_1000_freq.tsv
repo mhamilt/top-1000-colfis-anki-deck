@@ -38,7 +38,7 @@ se	6817	Congiunzione	if
 anni	6802	Sostantivo	years
 nella	6425	Preposizione	in the (f.s)
 due	6415	Numerale	two
-dal	6182	Preposizione	of the (m.s)
+dal	6182	Preposizione	from the (m.s)
 suo	5748	Aggettivo	its, his, her (m)
 sua	5555	Aggettivo	its, his, her (f)
 d'	5420	Preposizione	of
@@ -52,7 +52,7 @@ poi	4988	Avverbio	then
 hanno	4961	Verbo ausiliare in Tempo composto di un verbo	they have
 cui	4787	Pronome	who, which (pronoun)
 tra	4699	Preposizione	between, among, within
-dalla	4494	Preposizione	of the (f.s)
+dalla	4494	Preposizione	from the (f.s)
 così	4475	Avverbio	so
 solo	4451	Avverbio	only, alone
 c'	4398	Avverbio in Verbo	there
@@ -93,7 +93,7 @@ ne	2748	Pronome	of him / her / it, any
 grande	2731	Aggettivo	large
 tre	2723	Numerale	three
 mai	2681	Avverbio	never
-dall'	2637	Preposizione	of the
+dall'	2637	Preposizione	from the
 ci	2606	Pronome	us, about it
 casa	2583	Sostantivo	house, home
 lei	2581	Pronome	she
@@ -107,7 +107,7 @@ invece	2380	Avverbio	instead
 suoi	2337	Aggettivo	its / his / her (m.p)
 mentre	2288	Congiunzione	while
 volta	2275	Sostantivo	(one) time, once
-dai	2271	Preposizione	of the (m.p)
+dai	2271	Preposizione	from the (m.p)
 tutti	2262	Pronome	all, everyone
 però	2248	Congiunzione	but, however
 parte	2245	Sostantivo	part
@@ -134,7 +134,7 @@ prima	1954	Aggettivo	before, beforehand
 tutto	1944	Pronome	all, everything
 contro	1917	Preposizione	against
 fra	1910	Preposizione	between, among, within
-dalle	1833	Preposizione	of the (f.p)
+dalle	1833	Preposizione	from the (f.p)
 qui	1826	Avverbio	(right) here
 presidente	1800	Sostantivo	president
 lavoro	1775	Sostantivo	I work, work
@@ -507,7 +507,7 @@ casi	499	Sostantivo	cases
 vecchio	499	Aggettivo	old
 preso	499	Verbo in Tempo composto di un verbo	taken
 unica	498	Aggettivo	only, sole 
-vengono	496	Verbo ausiliare in Tempo composto di un verbo	they go
+vengono	496	Verbo ausiliare in Tempo composto di un verbo	they come
 ricerca	494	Sostantivo	research
 posso	491	Verbo	I can
 incontro	491	Sostantivo	encounter, meeting, reunion
@@ -554,7 +554,7 @@ sociale	463	Aggettivo	social
 potrà	462	Verbo	it / he / she will be able to
 state	461	Verbo ausiliare in Tempo composto di un verbo	been (f.p) 
 letto	460	Sostantivo	bed
-difficoltà	460	Sostantivo	diffiulty
+difficoltà	460	Sostantivo	difficulty
 dicono	459	Verbo	they say
 processo	458	Sostantivo	process
 finalmente	458	Avverbio	"finally, ""at last!"""
@@ -979,7 +979,7 @@ telefono	280	Sostantivo	telephone
 posti	280	Sostantivo	places, positions
 compito	279	Sostantivo	task, assignment
 andato	279	Verbo in Tempo composto di un verbo	gone
-classe	279	Sostantivo	classes, formes
+classe	279	Sostantivo	classes, forms
 purtroppo	278	Avverbio	unfortunately
 corte	278	Sostantivo	court
 termine	277	Sostantivo	conclusion, end
