@@ -58,19 +58,23 @@ def main():
 	freq = pd.read_csv("tsv/top_1000_freq.tsv", sep='\t')
 	rank = pd.read_csv("tsv/top_1000_rank.tsv", sep='\t')
 	wiki = pd.read_csv("tsv/top_1000_wiktionary.tsv", sep='\t')
-	corpus = pd.concat([freq[['italiano']], 
-						wiki[['italiano']],
-						rank[['italiano']]]).drop_duplicates(subset=['italiano'], keep='first')
+	# corpus = pd.concat([freq[['italiano']], 
+	# 					wiki[['italiano']],
+	# 					rank[['italiano']]]).drop_duplicates(subset=['italiano'], keep='first')
 	
-	for x in range(corpus.shape[0]):	
-		word = corpus.iloc[x, 0]
-		print(word, x, "out of", corpus.shape[0])
-		make_pronunciation_file(word)
-	
-	make_deck(freq, "Top 1000 Italian words by CoLFIS Freq", "freq_italian", 1901898207)
-	make_deck(freq, "Top 1000 Italian words by CoLFIS Rank", "rank_italian", 1508820474)	
-	make_deck(freq, "Wiktionary Top '1000' Italian Words", "wiki_italian", 4206775067)
+	# for x in range(corpus.shape[0]):	
+	# 	word = corpus.iloc[x, 0]
+	# 	print(word, x, "out of", corpus.shape[0])
+	# 	make_pronunciation_file(word)
+	combo =  pd.concat([freq[['english','italiano']],
+						wiki[['english','italiano']],
+						rank[['english','italiano']]]).drop_duplicates(subset=['italiano'], keep='first').reset_index()
 
+	print(combo.shape[0])
+	# make_deck(freq, "Top 1000 Italian words by CoLFIS Freq", "freq_italian", 1901898207)
+	# make_deck(freq, "Top 1000 Italian words by CoLFIS Rank", "rank_italian", 1508820474)	
+	# make_deck(freq, "Wiktionary Top '1000' Italian Words", "wiki_italian", 4206775067)
+	make_deck(combo, "Top 1000 Italian Words Combo", "combo_italian", 3404897352)	
 
 if __name__ == "__main__":
 	main()	
